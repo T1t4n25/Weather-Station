@@ -14,3 +14,4 @@ AMIT scholarship  project of a Temperature sensor and a dc motor (fan),
 1. ADC
 2. PWM
 
+# The repo contains the ATMEL project files and the proteus simulation project
